@@ -1,5 +1,5 @@
 import unittest
-from KIngaTashi_02240256_A3.py import Account, PersonalAccount, BusinessAccount, BankingSystem
+from kingatashi_02240256_A3.py import Account, PersonalAccount, BusinessAccount, BankingSystem
 
 class TestBankingSystem(unittest.TestCase):
     
